@@ -28,6 +28,8 @@ CREATE TABLE spotify (
     most_played_on VARCHAR(50)
 );
 
+-- Don't forget to import the dataset after creating the table and please change the escape sign fromsingle wuote to double quote while importing.
+
 --------------------------------------------------
 -- EDA
 --------------------------------------------------
