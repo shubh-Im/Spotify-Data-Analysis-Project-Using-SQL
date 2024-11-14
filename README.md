@@ -44,7 +44,7 @@ CREATE TABLE spotify (
 
 2.Exploratory Data Analysis (EDA)
 	Analyzed basic statistics like total rows, unique artists, albums, and missing values.
-	Identified outliers in song features such as tempo and danceability.
+	Identified outliers in song features such as tempo and danceability. 
  
 3.Descriptive Analysis
 	Calculated key statistics for numerical columns (e.g., energy, danceability, tempo).
